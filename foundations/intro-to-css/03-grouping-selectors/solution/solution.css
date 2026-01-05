@@ -1,10 +1,10 @@
-.inverted,
+.nonfancy,
 .fancy {
   font-family: Helvetica, "Times New Roman", sans-serif;
   font-size: 28px;
 }
 
-.inverted {
+.nonfancy{
   background-color: black;
   color: white;
 }
